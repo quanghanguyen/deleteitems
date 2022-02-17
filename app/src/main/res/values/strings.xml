@@ -2,5 +2,5 @@
     <string name="app_name">DeleteItemsRecyclerView</string>
 
 
-    <string name="delete"> Delete </string>
+    <string name="delete"> DELETE </string>
 </resources>
